@@ -1,2 +1,2 @@
-# ToolboxForMentalCardgames
+# Elliptic Curve Cardgames Toolbox
 Masterthesis
